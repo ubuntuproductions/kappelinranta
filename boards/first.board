@@ -1,0 +1,138 @@
+{
+    "canvases": [
+        {
+            "x": -1971.0,
+            "y": 119.0,
+            "w": 390.0,
+            "h": 847.0,
+            "widget": "const RegisterFirebase()",
+            "deps": [
+                "lib/register_firebase.dart"
+            ]
+        },
+        {
+            "x": -698.0,
+            "y": 119.0,
+            "w": 390.0,
+            "h": 844.0,
+            "widget": "const ResetPasswordFirebase()",
+            "deps": [
+                "lib/reset_password_firebase.dart"
+            ]
+        },
+        {
+            "x": -1549.0,
+            "y": 119.0,
+            "w": 390.0,
+            "h": 846.0,
+            "widget": "const UserInformation()",
+            "deps": [
+                "lib/user_information.dart"
+            ]
+        },
+        {
+            "x": -599.0,
+            "y": 1041.0,
+            "w": 390.0,
+            "h": 1984.0,
+            "widget": "const HomeStackUnconfirmed()",
+            "deps": [
+                "lib/home_stack_unconfirmed.dart"
+            ]
+        },
+        {
+            "x": -1509.0,
+            "y": 1042.0,
+            "w": 441.0,
+            "widget": "const WeddingCardConfirmed()",
+            "deps": [
+                "lib/wedding_card_confirmed.dart"
+            ]
+        },
+        {
+            "x": -1025.0,
+            "y": 1043.0,
+            "w": 390.0,
+            "widget": "const HomeStackConfirmed()",
+            "deps": [
+                "lib/home_stack_confirmed.dart"
+            ]
+        },
+        {
+            "x": -2394.0,
+            "y": 118.5,
+            "w": 390.0,
+            "h": 848.0,
+            "widget": "const SplashScreen()",
+            "deps": [
+                "lib/splash_screen.dart"
+            ]
+        },
+        {
+            "x": -220.0,
+            "y": 119.0,
+            "w": 390.0,
+            "h": 844.0,
+            "widget": "const Home()",
+            "deps": [
+                "lib/home.dart"
+            ]
+        },
+        {
+            "x": 324.0,
+            "y": 119.0,
+            "w": 390.0,
+            "h": 2000.0,
+            "widget": "const WeddingPage()",
+            "deps": [
+                "lib/wedding_page.dart"
+            ]
+        },
+        {
+            "x": 811.0,
+            "y": 119.0,
+            "w": 398.0,
+            "h": 290.0,
+            "widget": "const ConfirmProfesionalDialog()",
+            "deps": [
+                "lib/confirm_profesional_dialog.dart"
+            ]
+        },
+        {
+            "x": -1124.0,
+            "y": -87.0,
+            "w": 144.30029296875,
+            "h": 21.0,
+            "widget": "GestureDetector(onTap:(){\n  Navigator.of(context).push(MaterialPageRoute(builder:(context)=> const RegisterFirebase()));\n},child:Text('You can register here',style:TextStyle(decoration:TextDecoration.none),textAlign:TextAlign.center,),)",
+            "deps": [
+                "lib/register_firebase.dart"
+            ]
+        },
+        {
+            "x": -159.0,
+            "y": 1041.0,
+            "w": 444.0,
+            "widget": "const WeddingCardUnconfirmed()",
+            "deps": [
+                "lib/wedding_card_unconfirmed.dart"
+            ]
+        },
+        {
+            "x": -4614.0,
+            "y": 2161.0,
+            "w": 85.33333333333333,
+            "h": 85.33333333333333,
+            "widget": "const Image(image:AssetImage('assets/waving-hand_1f44b.png'),fit:BoxFit.cover,)"
+        },
+        {
+            "x": -1124.0,
+            "y": 120.5,
+            "w": 390.0,
+            "h": 844.0,
+            "widget": "const LoginFirebase()",
+            "deps": [
+                "lib/login_firebase.dart"
+            ]
+        }
+    ]
+}

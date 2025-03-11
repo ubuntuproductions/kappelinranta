@@ -1,0 +1,8 @@
+{
+  "name": "Kappeliranta",
+  "short_name": "Kappeliranta",
+  "description": "An app to centralize information about Kappeliranta all-in-one package.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
